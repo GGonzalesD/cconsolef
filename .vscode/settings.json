@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.js": "javascript",
+		"*.html": "html",
+		"*.rmd": "markdown",
+		"thread": "cpp"
+	}
+}
